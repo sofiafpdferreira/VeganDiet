@@ -24,7 +24,7 @@ h2,
 h3 {
   font-family: "Source Sans Pro", sans-serif;
   padding: 20px;
-  font-size: 15px;
+  font-size: 20px;
 }
 
 h2 {
@@ -78,4 +78,196 @@ button {
   text-align: justify;
   font-size: 12px;
   color: grey;
+  display: grid;
+  justify-content: space-evenly;
+  grid-template-columns: 50% 50%;
+  grid-template-rows: 50% 50%;
+  min-height: 600px;
+}
+
+.card-body a {
+  text-decoration: none;
+  text-align: center;
+  font-size: 1.5em;
+  color: black;
+  font-family: "Manrope", sans-serif;
+}
+
+.card-body a:hover {
+  font-size: 2em;
+}
+
+.monday-breakfast {
+  background-image: url("https://www.hotforfoodblog.com/wp-content/uploads/2020/04/hazelnutpancakes_hotforfood_filtered3-1536x1024.jpg");
+  background-size: 500px;
+  background-repeat: no-repeat;
+}
+
+.monday-lunch {
+  background-image: url("https://images.squarespace-cdn.com/content/v1/5ba0efb9266c077060b48c68/1574305090601-2DD01KXRW8FDR31IDMA1/ke17ZwdGBToddI8pDm48kNKLbFAtCAcI6o9JQdjPcRgUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKc9DHWRhb4IbnGEYHSPLUiHnVh2no2TLv9qy6fuc1XK_Y4dAnRfaODl4mePx-wl1Cc/beetroot+curry+vegan?format=1500w");
+  background-size: 500px;
+  background-repeat: no-repeat;
+}
+
+.monday-snack {
+  background-image: url("https://www.rainbownourishments.com/wp-content/uploads/2019/04/hot-cross-cinnamon-scrolls-website.jpg");
+  background-size: 500px;
+  background-repeat: no-repeat;
+  background-position: 0em;
+}
+
+.monday-dinner {
+  background-image: url("https://www.veganricha.com/wp-content/uploads/2020/04/kidneye-bean-peanut-coconutt-stew-veganricha-9228-2.jpg");
+  background-size: 500px;
+  background-repeat: no-repeat;
+}
+
+.tuesday-breakfast {
+  background-image: url("");
+  background-size: 500px;
+  background-repeat: no-repeat;
+}
+
+.tuesday-lunch {
+  background-image: url("");
+  background-size: 500px;
+  background-repeat: no-repeat;
+}
+
+.tuesday-snack {
+  background-image: url("");
+  background-size: 500px;
+  background-repeat: no-repeat;
+  background-position: 0em;
+}
+
+.tuesday-dinner {
+  background-image: url("");
+  background-size: 500px;
+  background-repeat: no-repeat;
+}
+
+.wednesday-breakfast {
+  background-image: url("");
+  background-size: 500px;
+  background-repeat: no-repeat;
+}
+
+.wednesday-lunch {
+  background-image: url("");
+  background-size: 500px;
+  background-repeat: no-repeat;
+}
+
+.wednesday-snack {
+  background-image: url("");
+  background-size: 500px;
+  background-repeat: no-repeat;
+  background-position: 0em;
+}
+
+.wednesday-dinner {
+  background-image: url("");
+  background-size: 500px;
+  background-repeat: no-repeat;
+}
+
+.thursday-breakfast {
+  background-image: url("");
+  background-size: 500px;
+  background-repeat: no-repeat;
+}
+
+.thursday-lunch {
+  background-image: url("");
+  background-size: 500px;
+  background-repeat: no-repeat;
+}
+
+.thursday-snack {
+  background-image: url("");
+  background-size: 500px;
+  background-repeat: no-repeat;
+  background-position: 0em;
+}
+
+.thursday-dinner {
+  background-image: url("");
+  background-size: 500px;
+  background-repeat: no-repeat;
+}
+
+.friday-breakfast {
+  background-image: url("");
+  background-size: 500px;
+  background-repeat: no-repeat;
+}
+
+.friday-lunch {
+  background-image: url("");
+  background-size: 500px;
+  background-repeat: no-repeat;
+}
+
+.friday-snack {
+  background-image: url("");
+  background-size: 500px;
+  background-repeat: no-repeat;
+  background-position: 0em;
+}
+
+.friday-dinner {
+  background-image: url("");
+  background-size: 500px;
+  background-repeat: no-repeat;
+}
+
+.saturday-breakfast {
+  background-image: url("");
+  background-size: 500px;
+  background-repeat: no-repeat;
+}
+
+.saturday-lunch {
+  background-image: url("");
+  background-size: 500px;
+  background-repeat: no-repeat;
+}
+
+.saturday-snack {
+  background-image: url("");
+  background-size: 500px;
+  background-repeat: no-repeat;
+  background-position: 0em;
+}
+
+.saturday-dinner {
+  background-image: url("");
+  background-size: 500px;
+  background-repeat: no-repeat;
+}
+
+.sunday-breakfast {
+  background-image: url("");
+  background-size: 500px;
+  background-repeat: no-repeat;
+}
+
+.sunday-lunch {
+  background-image: url("");
+  background-size: 500px;
+  background-repeat: no-repeat;
+}
+
+.sunday-snack {
+  background-image: url("");
+  background-size: 500px;
+  background-repeat: no-repeat;
+  background-position: 0em;
+}
+
+.sunday-dinner {
+  background-image: url("");
+  background-size: 500px;
+  background-repeat: no-repeat;
 }
