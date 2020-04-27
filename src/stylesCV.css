@@ -120,154 +120,170 @@ button {
   background-image: url("https://www.veganricha.com/wp-content/uploads/2020/04/kidneye-bean-peanut-coconutt-stew-veganricha-9228-2.jpg");
   background-size: 500px;
   background-repeat: no-repeat;
+  background-position: 0em;
 }
 
 .tuesday-breakfast {
-  background-image: url("");
-  background-size: 500px;
-  background-repeat: no-repeat;
-}
-
-.tuesday-lunch {
-  background-image: url("");
-  background-size: 500px;
-  background-repeat: no-repeat;
-}
-
-.tuesday-snack {
-  background-image: url("");
+  background-image: url("https://keepinitkind.com/wp-content/uploads/2017/11/Chocolate-Chip-Pumpkin-Date-Bread-7-of-7.jpg");
   background-size: 500px;
   background-repeat: no-repeat;
   background-position: 0em;
 }
 
-.tuesday-dinner {
-  background-image: url("");
+.tuesday-lunch {
+  background-image: url("https://keepinitkind.com/wp-content/uploads/2019/04/Butternut-Squash-Chili-Mac-4.jpg");
   background-size: 500px;
   background-repeat: no-repeat;
+  background-position: -8em -30em;
+}
+
+.tuesday-snack {
+  background-image: url("https://theplantphilosophy.com/wp-content/uploads/2014/11/pumpkin-smoothie.jpg");
+  background-size: 500px;
+  background-repeat: no-repeat;
+  background-position: -15em -23em;
+}
+
+.tuesday-dinner {
+  background-image: url("https://platform-remix-production.s3.amazonaws.com/uploads/2c937778-b2fd-11e4-945b-22000ae88868/0845017c-5056-11e7-b6a9-22000a7d00a4.jpg");
+  background-size: 500px;
+  background-repeat: no-repeat;
+  background-position: -5em -20em;
 }
 
 .wednesday-breakfast {
-  background-image: url("");
+  background-image: url("https://images.squarespace-cdn.com/content/v1/54d5d6d7e4b0701606fab87e/1516794045672-1NOWLZ5QU7PSF1775PRA/ke17ZwdGBToddI8pDm48kFWxnDtCdRm2WA9rXcwtIYR7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UcTSrQkGwCGRqSxozz07hWZrYGYYH8sg4qn8Lpf9k1pYMHPsat2_S1jaQY3SwdyaXg/vegan_omelet_hash_brown_omelet_vegan_eggless_omelette.jpg?format=1500w");
   background-size: 500px;
   background-repeat: no-repeat;
 }
 
 .wednesday-lunch {
-  background-image: url("");
+  background-image: url("https://images.squarespace-cdn.com/content/v1/54d5d6d7e4b0701606fab87e/1581541917718-PUJRZ3V3F1EUIE10J9C5/ke17ZwdGBToddI8pDm48kKRLSHbLOOw2f74AnHznvld7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UcdgdodmWis-YgZYtjjfro8b1XjCrT7gAHdyEl9gtnjdNeSmKb0l_enT_dNQ8WjXgg/Vegan+main+dishes%3A+Weeknight+Noodles+with+Sticky+No+Chicken+Bites?format=1500w");
   background-size: 500px;
   background-repeat: no-repeat;
+  background-position: -5em -20em;
 }
 
 .wednesday-snack {
-  background-image: url("");
+  background-image: url("https://www.thefullhelping.com/wp-content/uploads/2020/03/Chai-spice-energy-balls-2.jpg");
   background-size: 500px;
   background-repeat: no-repeat;
   background-position: 0em;
 }
 
 .wednesday-dinner {
-  background-image: url("");
+  background-image: url("https://www.thefullhelping.com/wp-content/uploads/2020/04/Anything-Goes-Pantry-Salad-2.jpg");
   background-size: 500px;
   background-repeat: no-repeat;
+  background-position: -5em -20em;
 }
 
 .thursday-breakfast {
-  background-image: url("");
+  background-image: url("https://www.rainbownourishments.com/wp-content/uploads/2019/11/Vegan-hummingbird-cake-loaf-1.jpg");
   background-size: 500px;
   background-repeat: no-repeat;
+  background-position: -5em -20em;
 }
 
 .thursday-lunch {
-  background-image: url("");
+  background-image: url("https://www.rainbownourishments.com/wp-content/uploads/2020/01/bahn-mi-pita..jpg");
   background-size: 500px;
   background-repeat: no-repeat;
+  background-position: -5em -20em;
 }
 
 .thursday-snack {
-  background-image: url("");
+  background-image: url("https://www.veganricha.com/wp-content/uploads/2019/05/Banana-Nut-bars-with-caramelized-bananas-veganricha-1639.jpg");
   background-size: 500px;
   background-repeat: no-repeat;
-  background-position: 0em;
+  background-position: -5em -20em;
 }
 
 .thursday-dinner {
-  background-image: url("");
+  background-image: url("https://www.veganricha.com/wp-content/uploads/2020/03/red-curry-lentils7.jpg");
   background-size: 500px;
   background-repeat: no-repeat;
+  background-position: -5em -20em;
 }
 
 .friday-breakfast {
-  background-image: url("");
+  background-image: url("https://images.squarespace-cdn.com/content/v1/5ba0efb9266c077060b48c68/1574215354047-3M79D26VJCLPJXRAAZLU/ke17ZwdGBToddI8pDm48kCjSImj9i8RSrl-oGPAFmKh7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UZzKjNeHyxdpD2c-nvp0_z013HWylhf1wVDLKa9d8k4rAN43Xjxxvi5UJclDbUAqLw/blissballs2+copy.jpg?format=1500w");
   background-size: 500px;
   background-repeat: no-repeat;
+  background-position: -5em -20em;
 }
 
 .friday-lunch {
-  background-image: url("");
+  background-image: url("https://images.squarespace-cdn.com/content/v1/5ba0efb9266c077060b48c68/1574211538045-2ZOK922I7O1JSG3UA7FU/ke17ZwdGBToddI8pDm48kEJl9kagxlXz69cfpanKTOd7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UUkA7wtwz8LNtxQhEMx4DUnO63xDY7jUFBsWrP6HwafsFlq8oZZwhhoTbTOjCpwBwg/the+compassionate+kitchen+pasta?format=1500w");
   background-size: 500px;
   background-repeat: no-repeat;
+  background-position: -5em -20em;
 }
 
 .friday-snack {
-  background-image: url("");
+  background-image: url("https://www.hotforfoodblog.com/wp-content/uploads/2019/08/pumpernickelbagelbombs_hotforfood_filtered4-840x1260.jpg");
   background-size: 500px;
   background-repeat: no-repeat;
   background-position: 0em;
 }
 
 .friday-dinner {
-  background-image: url("");
+  background-image: url("https://www.hotforfoodblog.com/wp-content/uploads/2019/03/everythingdanishes_hotforfood_filtered3-e1553634111755-1536x1120.jpg");
   background-size: 500px;
   background-repeat: no-repeat;
 }
 
 .saturday-breakfast {
-  background-image: url("");
+  background-image: url("https://likeavegan.com.au/wp-content/uploads/2018/03/omelette-2.jpg");
   background-size: 500px;
   background-repeat: no-repeat;
+  background-position: 0em;
 }
 
 .saturday-lunch {
-  background-image: url("");
+  background-image: url("https://likeavegan.com.au/wp-content/uploads/2020/03/kalesoup-3.jpg");
   background-size: 500px;
   background-repeat: no-repeat;
 }
 
 .saturday-snack {
-  background-image: url("");
+  background-image: url("https://healthyhappylife.com/wp-content/uploads/2020/04/chocolate-layer-cake-IMG_7993.jpg");
   background-size: 500px;
   background-repeat: no-repeat;
   background-position: 0em;
 }
 
 .saturday-dinner {
-  background-image: url("");
+  background-image: url("https://healthyhappylife.com/wp-content/uploads/2020/04/soul-bowl-southern-plate-vegan-IMG_8437.jpg");
   background-size: 500px;
   background-repeat: no-repeat;
+  background-position: -5em -30em;
 }
 
 .sunday-breakfast {
-  background-image: url("");
+  background-image: url("https://olivesfordinner.com/wp-content/uploads/2017/07/SSP_3980-2-768x1152.jpg");
   background-size: 500px;
   background-repeat: no-repeat;
+  background-position: -5em -20em;
 }
 
 .sunday-lunch {
-  background-image: url("");
+  background-image: url("https://olivesfordinner.com/wp-content/uploads/2020/04/social-distancing-soup_21394-1365x2048.jpg");
   background-size: 500px;
   background-repeat: no-repeat;
+  background-position: -5em -30em;
 }
 
 .sunday-snack {
-  background-image: url("");
+  background-image: url("https://thevegan8.com/wp-content/uploads/2020/03/vegan-gluten-free-chocolate-donuts-oil-free-2.jpg");
   background-size: 500px;
   background-repeat: no-repeat;
-  background-position: 0em;
+  background-position: -5em;
 }
 
 .sunday-dinner {
-  background-image: url("");
+  background-image: url("https://thevegan8.com/wp-content/uploads/2018/09/easy-vegan-quick-curry3.jpg");
   background-size: 500px;
   background-repeat: no-repeat;
+  background-position: -5em -20em;
 }
